@@ -1,4 +1,4 @@
-# Predicting te Future of Web develpoment
+# Predicting the Future of Web develpoment
 
 by Richard Feldman, author of Elm in Action
 
