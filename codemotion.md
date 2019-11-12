@@ -80,17 +80,19 @@ by Lena Reinhard, Engineering Director, Circle CI
 
 More companies are embrassing it ... like Circle CI
 Distributed team challange:
-    * more intentional
-    * succesfully working remotely is a skill takes time
+    
+  * more intentional
+  * succesfully working remotely is a skill takes time
 
 
-high perfoming team:
-    * equal opportunities to contribute
-    * phycological safety - culture, no fear of being embarassed or punished
-    * Dependandability
-    * Clarity
-    * Meaning
-    * Impact: Feeling of impact
+High perfoming team:
+
+  * equal opportunities to contribute
+  * phycological safety - culture, no fear of being embarassed or punished
+  * Dependandability
+  * Clarity
+  * Meaning
+  * Impact: Feeling of impact
 
 Connection
 ----------
