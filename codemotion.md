@@ -183,3 +183,78 @@ Testing: is more complicated, infrastructure as a service, CI/CD
 
 Logging: Beware of the costs of logging per API request, use bulk logging
 
+
+# Conducting Humane Code Reviews
+
+by Adrienne Tacke, author Coding for Kids Python
+
+@adriennetacke
+
+Why we do code reviews?
+-----------------------
+
+  * catch design flaws
+  * clarity and coherence
+       If it is hard to understand
+        -> complexity hides bugs
+        -> refactor would be even harder
+  * validate necessity
+  * confirm functionality
+    -> does it do what it is supposed to do?
+    -> does it do what the dev intended to do?
+
+Why we do not love code reviews?
+--------------------------------
+
+code review complains
+
+  ### subjectivity  
+  
+  
+  Get consensus with your team, get at the same page
+
+  * Team Working Agreement: (always changing with consensus)
+      - name conventions
+      - style guide
+      - code review process
+
+  * Tools: Prettier, ESLint, (me: like Black, Flake8 for Python)
+
+  * Objectivity always wins: Facts, Deprecated, Ticket requirements etc.
+
+  ### tone of voice
+  
+  
+    NO ->  This is terrible, 
+           this is sh**
+           it is not following the rules (passive aggressive)
+ 
+    NO -> "Why would you use this?"
+          "Are you really using this tool, really?"
+
+    Give the benefit of the doubt.
+    Give reasons, use facts
+
+Avoid tone of voice issues:
+
+- *Suggest with facts*
+- *Reject with courtesy*
+- *Clarify with an open-minded*  # ask before assuming, or jumping fast into conclusions
+
+### Process Loopholes
+
+ 
+   - Buddy reviewing/approving, with skipping actual process
+   - Bias: review te rockstar code too with the same criteria
+   - Solo dev: push to master 
+
+Minimum viable effort
+
+Avoid the process loopholes
+
+  - Code review policies: Why is it needed?
+  - 2 or more people
+  - CODEOWNERS: (feature in github) auto add reviewers based on knowledge
+
+Enforce the process for EVERYONE
+
