@@ -6,4 +6,6 @@
 
 - [Serverless beyond tutorials](https://github.com/mei-li/talks-notes/blob/master/codemotion.md#serverless-beyond-tutorials)
 
+- [Conducting Humane Code Reviews](https://github.com/mei-li/talks-notes/blob/master/codemotion.md#conducting-humane-code-reviews)
+
 
