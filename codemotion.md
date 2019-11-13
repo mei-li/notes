@@ -167,11 +167,10 @@ Serveless is a methodology
 etc. NO discovery , authentication
 
 
-Pick scaling can be solved with overprovision but do not pay since you do not use it
+Pick scaling can be solved with overprovision but you do not pay since you do not use it
 
-Azure or AWS lambdas
+Azure or AWS lambdas for state management use:
 * step/durable functions
-* state managed by these tools
 
 Front door on Azure (AWS has sth similar) --> multi region
 
@@ -181,5 +180,6 @@ Event driven cloud at scale
 Security: SQL injection with file names
 
 Testing: is more complicated, infrastructure as a service, CI/CD
-Beware of the costs of logging per API request, use bulk logging
+
+Logging: Beware of the costs of logging per API request, use bulk logging
 
