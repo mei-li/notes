@@ -155,3 +155,31 @@ Communication
 Continuity
 ----------
   * Building teams is never over
+  
+# Serverless Beyond Tutorials
+
+by Ivan Culjak, Cloud solutions architect
+@culajaklvan
+
+Serveless is a methodology
+    -> focus on your core business
+
+etc. NO discovery , authentication
+
+
+Pick scaling can be solved with overprovision but do not pay since you do not use it
+
+Azure or AWS lambdas
+* step/durable functions
+* state managed by these tools
+
+Front door on Azure (AWS has sth similar) --> multi region
+
+Event driven cloud at scale
+* mind-shift needed
+
+Security: SQL injection with file names
+
+Testing: is more complicated, infrastructure as a service, CI/CD
+Beware of the costs of logging per API request, use bulk logging
+
