@@ -8,4 +8,6 @@
 
 - [Conducting Humane Code Reviews](https://github.com/mei-li/talks-notes/blob/master/codemotion.md#conducting-humane-code-reviews)
 
+# Discussions
 
+- [Getting things done](discussions.md#getting-things-done)
