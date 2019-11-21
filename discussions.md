@@ -10,4 +10,6 @@ Summary from a friend
     - share with others
     - set specific dates
     - postpone sth for a day, etc
+    
+* He doesnt add the work tasks that are recording in the work ticketing system
 
