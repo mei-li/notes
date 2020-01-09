@@ -5,6 +5,7 @@ by *Charles Duhigg*
 
 - Loop: cue - habit - reward
 - To build a strong new habit, find a simple cue to trigger the habit and a clear reward, eg when I leave work, after run bath or relaxation.
+- When we start **craving** for the reward before it comes, it is when the habit becomes automatic
 - Replace bad habit with new, keeping the same cues and rewards
 - Toothbrushing/cleaning doesnt keep the fresh feeling or the smell to work it is added cause the reward smell or 
 effect, hooks as up
