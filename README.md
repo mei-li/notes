@@ -32,3 +32,7 @@
 - [Asking questions](https://docs.google.com/presentation/d/1F7Z5T_uc-As5GdqyQsdCPCYL-OaikubUDg-KthKaVjs/edit?usp=sharing), Pyladies Berlin 2019
 - [Github flow workshop](https://docs.google.com/presentation/d/14BZu5jpCzmWOHfjViLCeycy6ugyDZV9bGC074TMu9Jo/edit?usp=sharing), Rwanda Tech mentoring, 2020
 - [Joining tech](https://speakerdeck.com/meili/joining-tech), Pyladies Namibia, 2020
+
+
+# Deutsch lernen mit Workout
+* `30min`,`standing ONLY`, `cardio`, `easy` https://www.youtube.com/watch?v=HHdx98JMuPY
